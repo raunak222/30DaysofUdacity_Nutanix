@@ -1,2 +1,2 @@
-# 30DaysofUdacity_Nutanix_and_Azure-
+# 50DaysofUdacity
 A repo for my participation record
